@@ -22,7 +22,6 @@ buildNumber.properties
 *.iml
 
 ## Directory-based project format:
-.idea/
 
 
 ### Gradle template
