@@ -16,11 +16,6 @@
 
 Update your parent (root) `build.gradle`:
 ```groovy
-allprojects {
-    apply plugin: 'java'
-    apply plugin: 'maven'
-    apply plugin: 'jacoco'
-
     sourceCompatibility = 1.8
     targetCompatibility = 1.8
 
