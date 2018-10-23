@@ -2,4 +2,4 @@ language: java
 sudo: false # faster builds
 
 after_success:
-  - bash <(curl -s https://codecov.io/bash)
+  - bash <(curlwef -s https://codecov.io/bash)
